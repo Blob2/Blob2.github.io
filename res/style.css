@@ -1,0 +1,184 @@
+body {
+	background-image: url(img/BackgroundImage.png);
+	background-repeat: repeat;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+h1 {
+	font-family: 'Sigmar One', cursive;
+	text-align: center;
+	font-size: 400%;
+	margin: -30px auto -10px auto;
+	color: #ffffff;
+	text-shadow: 0px 0px 30px #ffcccc;
+}
+
+#canvas-container {
+  	width: 100%;
+  	display:none;
+   	text-align:center;
+}
+
+#gameCanvas {
+	background-color: #ffffff;
+	display:inline;
+  	box-shadow: 0px 0px 10px 7px #000000;
+}
+
+#pause-container {
+	width: 100%;
+	text-align: center;
+	display: none;
+}	
+
+#levelselect-container {
+	width: 100%;
+	text-align: center;
+	display: none;
+}
+
+#player1-control-selection-container {
+	width: 100%;
+	text-align: center;
+	display: none;
+}
+
+#player2-control-selection-container {
+	width: 100%;
+	text-align: center;
+	display: none;
+}
+
+#selection {
+	width: 800px;
+	height: 600px;
+	display: inline-block;
+	background-image: url(img/menudummy.png);
+}
+
+#p1Select {
+	width: 800px;
+	height: 600px;
+	display: inline-block;
+	background-image: url(img/LevelBackground/BackgroundStart.png);
+}
+
+#p2Select {
+	width: 800px;
+	height: 600px;
+	display: inline-block;
+	background-image: url(img/LevelBackground/BackgroundStart.png);
+}
+
+#pause {
+	width: 800px;
+	height: 600px;
+	display:inline-block;
+	background-image: url(img/fancypausesketch.png);
+}
+
+#debugCanvas {
+	display: none;
+}
+
+#menu-container{
+	width: 100%;
+	text-align: center;
+}
+
+#menu {
+	width: 800px;
+	height: 600px;
+	display:inline-block;
+	background-image: url(img/LevelBackground/BackgroundStart.png);	
+}
+
+.menu-div{
+	margin-top: 40px;
+	margin-left: 15px;
+	border: 3px solid black;
+	font-family: 'Sigmar One', cursive;
+	font-size: 100%;
+	display: inline-block;
+	text-align: center;
+	
+}
+
+.menu-item{
+	width: 150px;
+	height: 30px;
+	/*background-image: url(img/menuitembg.png);	*/
+	background-color: white;
+}
+
+.control{
+	width: 300px;
+	height: 300px;
+}
+
+.hint{
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.ingame{
+	margin-top: 30px;
+	font-size: 230%;
+}
+
+.center{
+	width: 100%;
+	text-align: center;
+}
+
+.controll-hint{
+	display:inline;
+	background-color: #111111;
+}
+
+.hidden{
+	display: none;
+}
+
+.hint-img{
+	width : 200px;
+	height: 100px;
+	overflow: hidden;
+	box-shadow: 0px 0px 2px 3px #000000;
+}
+
+.offset{
+	/*add background image offset!*/
+	margin-top: -100px;
+}
+
+#player-one-controls{
+	float:left;
+}
+#player-two-controls{
+	float: right;
+}
+
+.w8-button {
+    display: block;
+    padding: 30px 40px;
+    margin-left: 600px;
+    margin-top: 50px;
+    border: none;
+    font-family:"open_sans_lightregular";
+    font-size: 13px;
+    font-weight: bold;
+    cursor: pointer;
+    opacity: 0.9;
+}
+.w8-button.iconize {
+    background: url(img/pausebutton_alt.png) no-repeat 5px center;
+}
+.w8-button.iconize2 {
+    background: url(img/playbutton_alt.png) no-repeat 5px center;
+}

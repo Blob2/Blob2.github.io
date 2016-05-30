@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="33" height="25" tilewidth="25" tileheight="25">
+ <tileset firstgid="1" name="Tileset" tilewidth="25" tileheight="25">
+  <image source="../../../img/Tileset.png" width="400" height="250"/>
+ </tileset>
+ <layer name="Kachelebene 1" width="33" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzFlTFPgjEQhk8YDIMhHw6GwUG/GP4BAwmrizEuEFxdGHR3wAn+AUz9ubShF95c2tIeBS95813aXnm43rVrInpWaGM1iGhdGH9POmsSDDl7YnxNBv7/bUb8Ex3zUZNBs1cDcR/++221sPq8IsPEag76K4itnQdN7LUYZlbG6qcCwxj8fgED20pwcF2jTvXDb2Cs9CwkRw3T1IPjGNGhfhcgrmnJOPPjL1YdLwP+TsHgbJmYe42Mn3uvSgudawkDvic592QP/Dv/nSbWP1D4fmMG9/utGD/FMAT/0X/fxZpb8GN54D6SvYMMXDtcawb8ufCxFo1Yk3vPhhguYXy/4VvgegrPyjFs6dgnqO6FuGRP1e6XUgaXp7d/ZnCmzcMN6c9L9q6WoclYE7NaeTiHAe9YbT24c9jBmi9QzFJzqTxgz8p3LrRGyiTmOmK/PWCWNuY=
+  </data>
+ </layer>
+</map>

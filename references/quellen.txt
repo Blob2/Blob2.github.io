@@ -1,0 +1,261 @@
+http://www.luxanimals.com/blog/article/combining_easel_box2d
+easeljs dokumentation
+http://stackoverflow.com/questions/3779534/how-to-disable-text-selection-with-css-or-js
+disable selection
+http://stackoverflow.com/questions/17354549/how-to-change-button-icon-on-click
+icon toggle
+
+
+Title:
+   A platformer in the forest
+
+Author: 
+    Buch
+
+URL:
+    http://opengameart.org/content/a-platformer-in-the-forest
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+File(s):
+    * sheet_4.png
+
+
+Title:
+   Golden UI
+
+Author: 
+    Buch
+
+URL:
+    http://opengameart.org/content/golden-ui
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+File(s):
+    * ui.psd
+
+
+
+Title:
+    Cartoon Tree
+
+Author:
+    Belohlavek
+
+URL:
+    http://opengameart.org/content/cartoon-trees
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+File(s):
+    * tree_cartoon_big.png
+
+
+Title:
+    hand drawn Icon Pack
+
+Author:
+    Freepik
+
+URL:
+    http://www.flaticon.com/packs/hand-drawn
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * musical66.png
+
+
+Title:
+    Tropfsteine-hell.svg
+
+Author:
+    Chrkl (http://commons.wikimedia.org/wiki/User:Chrkl)
+
+URL:
+    http://de.wikipedia.org/wiki/Datei:Tropfsteine-hell.svg#filelinks
+
+License(s):
+    * GNU ( http://de.wikipedia.org/wiki/GNU-Lizenz_f%C3%BCr_freie_Dokumentation )
+
+File(s):
+    * Tropfsteine-hell.svg
+
+
+Title:
+    Common Controller
+
+Author:
+    Rahazan
+
+URL:
+    http://opengameart.org/content/common-controller
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * Common_Controller.png
+    * Common_Controller_1.png
+    * Common_Controller_2.png
+    * Common_Controller_3.png
+    * Common_Controller_4.png
+
+
+Title:
+    Jolly UI Free – free hand-drawn vector UI elements
+
+Author:
+    Hand-Drawn Goods
+
+URL:
+    http://ui-cloud.com/jolly-ui-free-free-hand-drawn-vector-ui-elements/
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+File(s):
+    * jolly-ui-free.psd (partly used)
+
+
+Title:
+    Dirt Platformer Tiles
+
+Author:
+    Sharm
+
+URL:
+    http://opengameart.org/content/dirt-platformer-tiles
+
+License(s):
+    * CC-BY 3.0 (http://creativecommons.org/licenses/by/3.0/)
+    * OGA-BY 3.0 (http://opengameart.org/content/oga-by-30-faq)
+
+File(s):
+    * skytiles.png
+
+
+Title:
+    Platform tileset nature
+
+Author:
+    Eris
+
+URL:
+    http://opengameart.org/content/platform-tileset-nature
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+File(s):
+    * BackgroundGradient.png
+
+
+Title:
+    Arrow keys, wsad, mouse icon
+
+Author:
+    InanZen
+
+URL:
+    http://creativecommons.org/publicdomain/zero/1.0/
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+File(s):
+    * keys-arrow-wsad-mouse_0.png
+
+
+Title:
+    10 8bit coin sounds
+
+Author:
+    Luke.RUSTLTD
+
+URL:
+    http://opengameart.org/content/10-8bit-coin-sounds
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+File(s):
+    * BackgroundGradient.png
+
+
+Title:
+    skweaks
+
+Author:
+    Écrivain
+URL:
+   http://opengameart.org/content/skweaks
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+File(s):
+    * skweak1.ogg
+ 	* skweak2.ogg
+  	* skweak3.ogg
+
+
+Title:
+   Teleport Spell
+
+Author:
+    Ogrebane
+URL:
+   http://opengameart.org/content/teleport-spell
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+File(s):
+    * teleport.ogg
+
+
+
+Front-end credits:
+Shake and Bake
+Music by Matthew Pablo
+http://www.matthewpablo.com
+
+//
+Fly Swatter Squish sound
+
+Author: 
+qubodup
+
+License(s):
+    * CC0 1.0  http://creativecommons.org/publicdomain/zero/1.0/
+
+URL:
+  http://opengameart.org/content/fly-swatter-squish-sound
+
+File(s):
+ * splat.ogg (made from flyswatter.wav)
+
+HeliSound
+http://soundbible.com/323-Military-Helicopter.html
+
+//
+Rumble/explosion
+
+Author: 
+Michel Baradari
+(Submitted by qubodup)
+
+License(s):
+    * CC-BY 3.0 http://creativecommons.org/licenses/by/3.0/
+
+URL:
+ http://opengameart.org/content/rumbleexplosion
+
+File(s):
+ * rumble.ogg
